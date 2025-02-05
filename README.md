@@ -61,10 +61,6 @@ Welcome to **Hospitality Business Analysis** – your gateway to transforming da
 - **Platform:** Power BI Desktop
 - **Data Coverage:** Real-time updates covering key hospitality metrics across multiple operational facets.
 - **Report Refresh:** Regularly updated to ensure the highest level of data accuracy and relevance.
-
-## Support
-For further assistance or additional information, please refer to the user guide or contact our support team at [Your Contact Information].
-
 ---
 
 *This README serves as a comprehensive guide to help you maximize the potential of your Hospitality Business Analysis tool. Engage with your data, uncover actionable insights, and drive excellence in your hospitality operations!*
