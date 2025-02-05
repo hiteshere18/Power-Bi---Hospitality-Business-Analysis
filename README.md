@@ -4,56 +4,62 @@
 Jump right in by accessing the live dashboard here: [Power BI Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc4OWFiOGEtOTJkZS00MDM4LWI0NzYtMThmYzgwOWZkMTA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Overview
-Welcome to **Hospitality Business Analysis** – your gateway to transforming data into actionable insights for the hospitality industry. This interactive tool, built with Power BI Desktop, empowers you to explore and analyze key performance metrics across various segments of your hospitality operations, from occupancy rates and revenue management to guest satisfaction and operational efficiency.
+Welcome to **Hospitality Business Analysis** – your gateway to transforming data into actionable insights for the hospitality industry. This interactive tool, built with Power BI Desktop, empowers you to explore and analyze key performance metrics across various segments of your hospitality operations, from revenue management and guest satisfaction to operational efficiency.
 
-## Key Insights
-Mumbai city had maximum % share of Total revenue contribution around 40% followed by Bangalore, Hyderabad whereas Delhi contributed the lowest for all the months.
-Interestingly, Key Metrics such as RevPAR(Revenue Per Available Room) had highest contribution from hotels based in Mumbai city followed by Delhi, Bangalore & Hyderabad while hotels based in Mumbai city has highest ADR (Avg Daily Rate ) followed by Bangalore, Delhi & Hyderabad.
-Delhi remained the most preferred choice with avg rating of 3.8 across all cities followed by Hyderabad, Mumbai & Bangalore.
-Also Delhi witnessed highest Occupancy Rate of 61% whereas Bangalore lowest.
-Weekend saw highest occupancy rate compared to weekdays.
-Hotels in Delhi city had highest cancellation Rate of 25 % followed by Bangalore, Mumbai & Hyderabad.
-Luxury hotel category contributed the most with 60 % share in total revenue as compared to Business category.
-In Luxury Category, property AtliQ Exotica alone had more than 30 % revenue contribution whereas AtliQ Grands remained lowest contributor.
-Elite room class remained the top revenue contributor followed by Premium ,Presidential & Standard.
-Others in Booking platform had highest revenue contribution followed by direct offline with lowest.
+## Key Features & Insights
+- **Engage & Explore:**  
+  - **Revenue Management:** Monitor daily, weekly, and monthly revenue streams. Uncover trends, identify seasonal patterns, and optimize pricing strategies to maximize profitability.  
+  - **Occupancy & Booking Analysis:** Track occupancy levels, room booking trends, and average daily rates to optimize resource allocation.
+  - **Guest Experience Insights:** Evaluate customer feedback and satisfaction scores to improve service quality and boost guest loyalty.
+  - **Operational Efficiency:** Analyze staff productivity and service turnaround times to streamline operations.
+  - **Executive View:** Access a consolidated dashboard that offers a high-level overview of all critical metrics for swift, strategic decision-making.
 
-- **Interactive & Customizable Dashboard:**  
-  - Utilize dynamic filters to customize views by property, region, service type, or time period.
-  - Dive deep with interactive charts and drill-down capabilities that reveal granular insights.
-  - Engage with real-time data visualizations that breathe life into your performance metrics.
-
-- **Data-Driven Actions:**  
-  - **Analyze:** Evaluate performance indicators like revenue per available room (RevPAR), average daily rate (ADR), and occupancy rates.
-  - **Compare:** Benchmark current performance against historical trends and industry standards.
-  - **Act:** Identify growth opportunities, optimize service delivery, and implement proactive strategies to enhance guest satisfaction.
-  - **Optimize:** Leverage actionable insights to boost operational efficiency and drive sustainable profitability.
+- **Actionable Data-Driven Insights:**  
+  - **City Performance:**  
+    - Mumbai leads with approximately 40% of the total revenue contribution, followed by Bangalore and Hyderabad, while Delhi records the lowest share for all months.
+    - Key metrics such as RevPAR (Revenue Per Available Room) show the highest contribution from hotels in Mumbai, followed by Delhi, Bangalore, and Hyderabad.
+    - Mumbai hotels also boast the highest ADR (Average Daily Rate), with Bangalore, Delhi, and Hyderabad trailing respectively.
+  
+  - **Customer Preferences & Ratings:**  
+    - Delhi emerges as the most preferred choice with an average rating of 3.8 across all cities, followed by Hyderabad, Mumbai, and Bangalore.
+    - Despite its lower revenue share, Delhi hotels achieve the highest occupancy rate of 61%, whereas Bangalore records the lowest.
+    - Weekends consistently report higher occupancy rates compared to weekdays.
+  
+  - **Cancellation Trends:**  
+    - Hotels in Delhi experience the highest cancellation rate at 25%, followed by Bangalore, Mumbai, and Hyderabad.
+  
+  - **Category & Property Performance:**  
+    - The Luxury hotel category dominates with a 60% share of the total revenue compared to the Business category.
+    - Within the Luxury segment, the AtliQ Exotica property alone contributes over 30% of the revenue, while AtliQ Grands is the lowest contributor.
+  
+  - **Room Class & Booking Platform:**  
+    - The Elite room class is the top revenue contributor, followed by Premium, Presidential, and Standard classes.
+    - Among booking platforms, 'Others' lead in revenue contribution, with direct offline channels contributing the least.
 
 ## Objectives
 - **Performance Monitoring:** Continuously track key hospitality metrics to stay on top of operational performance.
-- **Comparative Analysis:** Contrast current performance with historical data and industry benchmarks to pinpoint opportunities for improvement.
-- **Actionable Insights:** Uncover deep insights that drive strategic decision-making and operational enhancements.
-- **Proactive Management:** Enhance revenue management, improve guest experience, and streamline operations to stay ahead in a competitive market.
+- **Comparative Analysis:** Benchmark current performance against historical trends and industry standards to pinpoint opportunities for improvement.
+- **Actionable Insights:** Uncover deep insights that drive strategic decisions and operational enhancements.
+- **Proactive Management:** Enhance revenue management, improve guest experiences, and streamline operations to stay ahead in a competitive market.
 
 ## Data and Metrics
 - **Data Refresh:**  
   - **Report Refresh Date:** [Insert Date]  
   - Data is updated regularly to ensure you always have access to the latest insights.
 - **Metrics Tracked:**  
-  - Revenue streams, occupancy rates, booking trends, customer satisfaction scores, and operational performance indicators.
+  - Revenue streams, occupancy rates, booking trends, guest satisfaction scores, cancellation rates, and operational performance indicators.
 - **Analytical Views:**  
   - Detailed revenue analysis, occupancy and booking trends, guest feedback metrics, and efficiency benchmarks.
 
 ## How to Use
-1. **Launch the Live Dashboard:** Start by clicking the live dashboard link above to view the most current data.
-2. **Review the User Guide:** Download the detailed user guide provided within the dashboard for step-by-step instructions.
-3. **Customize Your View:** Use dynamic filters to explore data by property, region, or time period.
-4. **Engage with Data:** Interact with charts and graphs to drill down into specifics and reveal underlying trends.
-5. **Export & Act:** Generate detailed reports and export data to support your strategic initiatives and operational decisions.
+1. **Launch the Live Dashboard:** Start by clicking the live dashboard link above to access real-time data and insights.
+2. **Customize Your View:** Use dynamic filters to explore data by property, region, service type, or time period.
+3. **Engage with Data:** Interact with charts and graphs to drill down into specifics and uncover actionable insights.
+4. **Export & Act:** Generate detailed reports and export data to support your strategic initiatives and operational decisions.
 
 ## Technical Details
 - **Platform:** Power BI Desktop
-- **Data Coverage:** Real-time data updates covering key hospitality metrics across multiple operational facets.
+- **Data Coverage:** Real-time updates covering key hospitality metrics across multiple operational facets.
 - **Report Refresh:** Regularly updated to ensure the highest level of data accuracy and relevance.
 
 ## Support
