@@ -6,13 +6,17 @@ Jump right in by accessing the live dashboard here: [Power BI Live Dashboard](ht
 ## Overview
 Welcome to **Hospitality Business Analysis** – your gateway to transforming data into actionable insights for the hospitality industry. This interactive tool, built with Power BI Desktop, empowers you to explore and analyze key performance metrics across various segments of your hospitality operations, from occupancy rates and revenue management to guest satisfaction and operational efficiency.
 
-## Key Features & Insights
-- **Engage & Explore:**  
-  - **Revenue Management:** Monitor daily, weekly, and monthly revenue streams. Uncover trends, identify seasonal patterns, and optimize pricing strategies.  
-  - **Occupancy & Booking Analysis:** Track occupancy levels, room booking trends, and average daily rates to maximize resource utilization.  
-  - **Guest Experience Insights:** Analyze customer feedback and satisfaction scores to drive improvements in service quality and guest loyalty.  
-  - **Operational Efficiency:** Evaluate key operational metrics such as staff productivity and service turnaround times to streamline processes.
-  - **Executive View:** Gain a holistic view of your hospitality operations with dashboards that consolidate vital metrics for quick decision-making.
+## Key Insights
+Mumbai city had maximum % share of Total revenue contribution around 40% followed by Bangalore, Hyderabad whereas Delhi contributed the lowest for all the months.
+Interestingly, Key Metrics such as RevPAR(Revenue Per Available Room) had highest contribution from hotels based in Mumbai city followed by Delhi, Bangalore & Hyderabad while hotels based in Mumbai city has highest ADR (Avg Daily Rate ) followed by Bangalore, Delhi & Hyderabad.
+Delhi remained the most preferred choice with avg rating of 3.8 across all cities followed by Hyderabad, Mumbai & Bangalore.
+Also Delhi witnessed highest Occupancy Rate of 61% whereas Bangalore lowest.
+Weekend saw highest occupancy rate compared to weekdays.
+Hotels in Delhi city had highest cancellation Rate of 25 % followed by Bangalore, Mumbai & Hyderabad.
+Luxury hotel category contributed the most with 60 % share in total revenue as compared to Business category.
+In Luxury Category, property AtliQ Exotica alone had more than 30 % revenue contribution whereas AtliQ Grands remained lowest contributor.
+Elite room class remained the top revenue contributor followed by Premium ,Presidential & Standard.
+Others in Booking platform had highest revenue contribution followed by direct offline with lowest.
 
 - **Interactive & Customizable Dashboard:**  
   - Utilize dynamic filters to customize views by property, region, service type, or time period.
